@@ -2,7 +2,7 @@
 
 Project 1:
 
-PART A: https://youtu.be/R1StjWM_LOE
+PART A: https://youtu.be/R1StjWM_LOE 
 
 PART B: https://youtu.be/TC_9EuMTPN4
 
