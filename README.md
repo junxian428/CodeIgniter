@@ -28,3 +28,6 @@ https://forum.codeigniter.com/thread-77086.html
 
 
 ![alt-text](https://user-images.githubusercontent.com/58724748/106479391-3edea880-64e5-11eb-8b1c-c340454cb7e9.png)
+
+First Thing, Change Apache Config to Public...
+
