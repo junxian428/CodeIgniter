@@ -25,3 +25,6 @@ First turn on the bug detector and find the error lines... Uncomment the error l
 C:\xampp\htdocs\project-root\vendor\codeigniter4\framework\system 
 
 https://forum.codeigniter.com/thread-77086.html
+
+
+![alt-text](https://user-images.githubusercontent.com/58724748/106479391-3edea880-64e5-11eb-8b1c-c340454cb7e9.png)
