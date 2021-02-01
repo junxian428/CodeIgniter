@@ -1,6 +1,11 @@
 # CodeIgniter
 
-https://youtu.be/R1StjWM_LOE
+Project 1:
+PART A: https://youtu.be/R1StjWM_LOE
+
+PART B: https://youtu.be/TC_9EuMTPN4
+
+Project 2:
 
 Steps:
 
