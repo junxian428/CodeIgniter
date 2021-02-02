@@ -37,3 +37,5 @@ https://forum.codeigniter.com/thread-77086.html
 
 First Thing, Change Apache Config to Public...
 
+![alt-text](https://user-images.githubusercontent.com/58724748/106543185-31a2d780-6540-11eb-95fb-8022a946d7e5.png)
+
