@@ -37,3 +37,28 @@ https://forum.codeigniter.com/thread-77086.html
 
 First Thing, Change Apache Config to Public...
 
+Check Connection
+
+<?php
+
+$serverName = "localhost";
+
+$userName = "root";
+
+$password = "";
+
+$dbName = "test";
+
+$con = mysqli_connect($serverName, $userName, $password, $dbName);
+
+if(mysqli_connect_errno()){
+
+   echo "Failed to connect!";
+   
+   exit();
+
+}
+
+echo "Connection success!";
+
+ ?>
